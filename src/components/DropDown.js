@@ -6,9 +6,9 @@ const DropDown = ({ label, options, selected, onSelectedChange }) => {
 
   useEffect(() => {
     const onBodyClick = (event) => {
-      // if (ref.current.contains(event.target)) {
-      //   return;
-      // }
+      if (ref.current.contains(event.target)) {
+        return;
+      }
 
       setOpen(false);
     };
