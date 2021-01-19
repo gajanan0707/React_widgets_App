@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/React_widgets_App/static/js/main.d41fee35.chunk.js",
+    "main.js.map": "/React_widgets_App/static/js/main.d41fee35.chunk.js.map",
+    "runtime-main.js": "/React_widgets_App/static/js/runtime-main.a4f0e3af.js",
+    "runtime-main.js.map": "/React_widgets_App/static/js/runtime-main.a4f0e3af.js.map",
+    "static/js/2.1fd355f5.chunk.js": "/React_widgets_App/static/js/2.1fd355f5.chunk.js",
+    "static/js/2.1fd355f5.chunk.js.map": "/React_widgets_App/static/js/2.1fd355f5.chunk.js.map",
+    "index.html": "/React_widgets_App/index.html",
+    "static/js/2.1fd355f5.chunk.js.LICENSE.txt": "/React_widgets_App/static/js/2.1fd355f5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4f0e3af.js",
+    "static/js/2.1fd355f5.chunk.js",
+    "static/js/main.d41fee35.chunk.js"
+  ]
+}
